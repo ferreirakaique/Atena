@@ -22,7 +22,7 @@ export default function LoginScreen({ navigation }) {
 
     return (
         <View style={styles.container}>
-            <Image source={require("../../assets/logo.png")} style={styles.logo} />
+            <Image source={require("../assets/logo.png")} style={styles.logo} />
             <TextInput placeholder="E-mail" style={styles.input} value={email} onChangeText={setEmail} />
             <TextInput
                 placeholder="Senha"
