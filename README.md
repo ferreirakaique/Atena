@@ -34,7 +34,7 @@ O **Athena** surge como uma solução mobile simples, moderna e funcional que of
 * **Credenciais de acesso padrão para testes:**
 
   * **E-mail:** [professor@gmail.com](mailto:professor@gmail.com)
-  * **Senha:** 12345
+  * **Senha:** 123456
 
 ---
 
@@ -126,32 +126,6 @@ O **Athena** surge como uma solução mobile simples, moderna e funcional que of
 
 ---
 
-## 🧱 **Estrutura do Projeto**
-
-```
-📦 Athena
- ┣ 📂 src
- ┃ ┣ 📂 screens
- ┃ ┃ ┣ 📜 LoginScreen.js
- ┃ ┃ ┣ 📜 HomeScreen.js
- ┃ ┃ ┣ 📜 TurmasScreen.js
- ┃ ┃ ┣ 📜 AtividadesScreen.js
- ┃ ┃ ┗ 📜 CadastroAtividade.js
- ┃ ┣ 📂 components
- ┃ ┃ ┣ 📜 CardTurma.js
- ┃ ┃ ┣ 📜 CardAtividade.js
- ┃ ┗ 📂 services
- ┃    ┗ 📜 supabaseClient.js
- ┣ 📂 assets
- ┃ ┣ 📷 login.jpeg
- ┃ ┗ 📷 professor.jpeg
- ┣ 📜 App.js
- ┣ 📜 README.md
- ┗ 📜 package.json
-```
-
----
-
 ## 🧑‍💻 **Como Executar o Projeto**
 
 ```bash
@@ -172,7 +146,7 @@ npx expo start
 
 ```
 E-mail: professor@gmail.com
-Senha: 12345
+Senha: 123456
 ```
 
 ---
